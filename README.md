@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Mi nombre es Gonzalo Jiménez, un desarrollador de software Full-Stack recientemente graduado en DAW, y aquí comparto mis proyectos personales y mi experiencia en programación.</p>
+<p align="left">👋 Mi nombre es Gonzalo Jiménez, un desarrollador de software Full-Stack, y aquí comparto mis proyectos personales y mi experiencia en programación.</p>
 
 ###
 
