@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔎 Actualmente estoy en búsqueda de oportunidades laborales en el ámbito de la programación, tanto en backend como en frontend.<br><br>🦾 Las tecnologías que domino son: Java, JavaScript, Python (y Django), PHP, MySQL, HTML y CSS.<br><br>🚀 En este momento me encuentro desarrollando por cuenta propia en proyectos personales.<br><br>🌐 Mi portfolio web: https://gonzalojimenezportfolio.netlify.app/<br><br>🔗 También puedes conectar conmigo a través de LinkedIn: https://www.linkedin.com/in/gjimenezcampos/<br>
+<p align="left">🔎 Actualmente estoy en búsqueda de oportunidades laborales en el ámbito de la programación, tanto en backend como en frontend.<br><br>🦾 Las tecnologías que domino son: Java, C# (Unity), Drupal, JavaScript, Python (y Django), PHP, MySQL, HTML, CSS.<br><br>🚀 En este momento me encuentro desarrollando por cuenta propia en proyectos personales.<br><br>🌐 Mi portfolio web: https://gonzalojimenezportfolio.netlify.app/<br><br>🔗 También puedes conectar conmigo a través de LinkedIn: https://www.linkedin.com/in/gjimenezcampos/<br>
 
 ###
 
